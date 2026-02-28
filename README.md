@@ -53,4 +53,5 @@ I learned that I can import font by link .
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Conquerant2135](https://www.frontendmentor.io/profile/Conquerant2135)
+- Github - [@Conquerant2135](https://github.com/Conquerant2135)
