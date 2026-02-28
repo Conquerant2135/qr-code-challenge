@@ -4,21 +4,27 @@
   box-sizing: border-box;
 }
 
+html , body {
+  height: 100%;
+}
+
 body {
   font-family: "Outfit", sans-serif;
   background-color: #d5e1ef;
-}
-
-#qr-code {
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .container {
-  width: clamp(1440px, 80%, 375px);
-  margin: 0 auto;
+  width: clamp(375px, 80%, 1440px);
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#qr-code {
   display: flex;
   align-items: center;
   justify-content: center;
